@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestRunner",
+            "request": "launch",
+            "mainClass": "AreaOfCircle.TestRunner",
+            "projectName": "19031J0011"
+        }
+    ]
+}
