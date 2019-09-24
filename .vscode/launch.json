@@ -4,6 +4,27 @@
             "type": "java",
             "name": "CodeLens (Launch) - TestRunner",
             "request": "launch",
+            "mainClass": "SleepIn.TestRunner",
+            "projectName": "19031J0011"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestRunner",
+            "request": "launch",
+            "mainClass": "AbsoluteNumber.TestRunner",
+            "projectName": "19031J0011"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestRunner",
+            "request": "launch",
+            "mainClass": "SimpleInterest.TestRunner",
+            "projectName": "19031J0011"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestRunner",
+            "request": "launch",
             "mainClass": "AreaOfCircle.TestRunner",
             "projectName": "19031J0011"
         }
